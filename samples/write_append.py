@@ -1,0 +1,5 @@
+file = open("text/write_append.txt", "a")
+file.write("Line 1\n")
+file.write("Line 2\n")
+file.write("Line 3\n")
+file.close()

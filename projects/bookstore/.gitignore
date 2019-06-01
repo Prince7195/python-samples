@@ -1,0 +1,5 @@
+dist
+build
+__pycache__
+store.db
+frontend.spec
